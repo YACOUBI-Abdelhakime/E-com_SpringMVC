@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+h1{
+	text-align: center;
+}
+.container{
+	display: flex;
+	justify-content:  center;
+}
+#imgArticle{
+	height: 30px;
+	width: 30px;
+}

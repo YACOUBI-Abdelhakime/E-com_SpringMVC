@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-aop-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-context-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-context-support-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-core-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-expression-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-web-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aop-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aop-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aspects-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-aspects-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-beans-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-beans-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-support-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-context-support-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-core-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-core-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-expression-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-expression-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-tomcat-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-instrument-tomcat-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jdbc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jdbc-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jdbc-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jms-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jms-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-jms-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-messaging-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-messaging-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-messaging-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-orm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-orm-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-orm-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-oxm-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-oxm-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-oxm-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-test-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-test-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-test-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-tx-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-tx-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-tx-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-web-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-web-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-portlet-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-webmvc-portlet-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-websocket-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-websocket-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/JARs SpringMVC/spring-websocket-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/TPs/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/EST^ESSAOUIRA/LP I.S.I.L/S6/JEE/TPs/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
